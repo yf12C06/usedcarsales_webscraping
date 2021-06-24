@@ -15,4 +15,4 @@ Compared the depreciation rate among a few popular models
 
 Found out a few interesting facts by digging further into the data
 
-# Please check the PDF presentation and jupyter notebook more information
+# Please check the PDF presentation and jupyter notebook for more information
