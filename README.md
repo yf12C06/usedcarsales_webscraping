@@ -1,4 +1,4 @@
-# usedcarsales_webscraping
+# A Web Scraping Project For Used Car Market Analysis
 
 # Web Scraping
 1. Used Selenium/BS4 to go through pages of listings and scraped the url of each listing
